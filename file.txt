@@ -3,4 +3,4 @@ AND
 text from branch2
 
 
-add from pr1
+add from pr2
